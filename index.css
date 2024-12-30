@@ -1,0 +1,118 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+}
+nav{
+    height: 80px;
+    background: #2c3e50;
+    
+
+}
+nav img{
+    width: 120px;
+    position: absolute;
+    left: 12%;
+}
+ header nav ul{
+    float: right;
+    margin-right: 35px;
+}
+nav ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 15px;
+
+}
+nav ul li a{
+    position: relative;
+    color: #fff;
+    font-size: 18px;
+    padding: 5px 0;
+    text-transform: uppercase;
+    
+}
+nav ul li a:before{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    content: "";
+    height: 3PX;
+    width: 100%;
+    background: #fff;
+    transform: scaleX(0);
+    transform-origin: right;
+    transition: transform 0.4s linear;
+
+}
+
+nav ul li a:hover:before{
+    transform: scaleX(1);
+    transform-origin: left;
+}
+
+.grid-product{
+    padding: 0 40px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    background-color: #f4f4f4;
+    
+}
+.product{
+    width: 310px;
+    text-align: center;
+    padding: 15px 10px;
+    background-color: white;
+    margin-top: 30px;
+    border-radius: 7px;
+    position: relative;
+    line-height: 25px;
+
+}
+.product button{
+    font-size: 17px;
+    font-weight: bold;
+    padding: 5px 20px;
+    background-color: rgb(179, 152, 205);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+.product h1{
+    color: rgb(21, 223, 196);
+
+}
+.product img{
+    width: 200px;
+}
+.product h4{
+    color: red;
+}
+.product h2{
+    color: blue;
+}
+.product p span{
+    color: rgb(244, 121, 13);
+}
+.product h3{
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 3px 15px;
+    border-radius:0px 15px 15px 0px;
+    background-color: rgb(188, 22, 200);
+    color: white;
+}
+@media screen and (max-width:576px) {
+    .grid-product{
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+@media screen and (min-width:577px) and (max-width:992px) {
+    .grid-product{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

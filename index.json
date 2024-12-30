@@ -1,0 +1,151 @@
+[
+    {
+        "id":1 ,
+        "name": "wireless Headphone",
+        "description": "Noise-cancelling over-ear headphones with bluetooth connectivity.",
+        "price": 99.99,
+        "category": "Elrctronics",
+        "inStock": true,
+        "tags": ["Audio", "Wireless", "bluetooth"],
+        "rating": 4.5,
+        "img": "https://www.startech.com.bd/image/cache/catalog/monitor/lenovo/d19-10/d19-10-001-500x500.webp"
+    },
+    {
+        "id":2   ,
+        "name": "wireless Headphone",
+        "description": "Noise-cancelling over-ear headphones with bluetooth connectivity.",
+        "price": 99.99,
+        "category": "Elrctronics",
+        "inStock": true,
+        "tags": ["Audio", "Wireless", "bluetooth"],
+        "rating": 4.5,
+        "img": "https://www.startech.com.bd/image/cache/catalog/monitor/lenovo/d19-10/d19-10-001-500x500.webp"
+    
+    },
+    {
+        "id":3 ,
+        "name": "wireless Headphone",
+        "description": "Noise-cancelling over-ear headphones with bluetooth connectivity.",
+        "price": 99.99,
+        "category": "Elrctronics",
+        "inStock": true,
+        "tags": ["Audio", "Wireless", "bluetooth"],
+        "rating": 4.5,
+        "img": "https://www.startech.com.bd/image/cache/catalog/monitor/lenovo/d19-10/d19-10-001-500x500.webp"
+    
+    },
+    {
+        "id":4 ,
+        "name": "wireless Headphone",
+        "description": "Noise-cancelling over-ear headphones with bluetooth connectivity.",
+        "price": 99.99,
+        "category": "Elrctronics",
+        "inStock": true,
+        "tags": ["Audio", "Wireless", "bluetooth"],
+        "rating": 4.5,
+        "img": "https://www.startech.com.bd/image/cache/catalog/monitor/lenovo/d19-10/d19-10-001-500x500.webp"
+    
+    },
+    {
+        "id":5 ,
+        "name": "wireless Headphone",
+        "description": "Noise-cancelling over-ear headphones with bluetooth connectivity.",
+        "price": 99.99,
+        "category": "Elrctronics",
+        "inStock": true,
+        "tags": ["Audio", "Wireless", "bluetooth"],
+        "rating": 4.5,
+        "img": "https://www.startech.com.bd/image/cache/catalog/monitor/lenovo/d19-10/d19-10-001-500x500.webp"
+    
+    },
+    {
+        "id":6 ,
+        "name": "wireless Headphone",
+        "description": "Noise-cancelling over-ear headphones with bluetooth connectivity.",
+        "price": 99.99,
+        "category": "Elrctronics",
+        "inStock": true,
+        "tags": ["Audio", "Wireless", "bluetooth"],
+        "rating": 4.5,
+        "img": "https://www.startech.com.bd/image/cache/catalog/monitor/lenovo/d19-10/d19-10-001-500x500.webp"
+    
+    
+    },
+    {
+        "id":6 ,
+        "name": "wireless Headphone",
+        "description": "Noise-cancelling over-ear headphones with bluetooth connectivity.",
+        "price": 99.99,
+        "category": "Elrctronics",
+        "inStock": true,
+        "tags": ["Audio", "Wireless", "bluetooth"],
+        "rating": 4.5,
+        "img": "https://www.startech.com.bd/image/cache/catalog/monitor/lenovo/d19-10/d19-10-001-500x500.webp"
+    
+    },
+    {
+        "id":6 ,
+        "name": "wireless Headphone",
+        "description": "Noise-cancelling over-ear headphones with bluetooth connectivity.",
+        "price": 99.99,
+        "category": "Elrctronics",
+        "inStock": true,
+        "tags": ["Audio", "Wireless", "bluetooth"],
+        "rating": 4.5,
+        "img": "https://www.startech.com.bd/image/cache/catalog/monitor/lenovo/d19-10/d19-10-001-500x500.webp"
+    
+    
+    },
+    {
+        "id":6 ,
+        "name": "wireless Headphone",
+        "description": "Noise-cancelling over-ear headphones with bluetooth connectivity.",
+        "price": 99.99,
+        "category": "Elrctronics",
+        "inStock": true,
+        "tags": ["Audio", "Wireless", "bluetooth"],
+        "rating": 4.5,
+        "img": "https://www.startech.com.bd/image/cache/catalog/monitor/lenovo/d19-10/d19-10-001-500x500.webp"
+    
+    
+    },
+    {
+        "id":6 ,
+        "name": "wireless Headphone",
+        "description": "Noise-cancelling over-ear headphones with bluetooth connectivity.",
+        "price": 99.99,
+        "category": "Elrctronics",
+        "inStock": true,
+        "tags": ["Audio", "Wireless", "bluetooth"],
+        "rating": 4.5,
+        "img": "https://www.startech.com.bd/image/cache/catalog/monitor/lenovo/d19-10/d19-10-001-500x500.webp"
+    
+    
+    },
+    {
+        "id":6 ,
+        "name": "wireless Headphone",
+        "description": "Noise-cancelling over-ear headphones with bluetooth connectivity.",
+        "price": 99.99,
+        "category": "Elrctronics",
+        "inStock": true,
+        "tags": ["Audio", "Wireless", "bluetooth"],
+        "rating": 4.5,
+        "img": "https://www.startech.com.bd/image/cache/catalog/monitor/lenovo/d19-10/d19-10-001-500x500.webp"
+    
+    
+    },
+    {
+        "id":6 ,
+        "name": "wireless Headphone",
+        "description": "Noise-cancelling over-ear headphones with bluetooth connectivity.",
+        "price": 99.99,
+        "category": "Elrctronics",
+        "inStock": true,
+        "tags": ["Audio", "Wireless", "bluetooth"],
+        "rating": 4.5,
+        "img": "https://www.startech.com.bd/image/cache/catalog/monitor/lenovo/d19-10/d19-10-001-500x500.webp"
+    
+    }
+
+]
