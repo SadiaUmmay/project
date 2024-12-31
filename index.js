@@ -16,7 +16,7 @@ function showData(products) {
         <h3>${product.inStock}</h3>
         <p>${product.tags}</p>
         <p><span> Ratings: ${product.rating}</span></p>
-        <button>Add to cart</button>
+        <button>Add to cart </button>
 
 
         `
